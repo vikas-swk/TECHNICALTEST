@@ -69,7 +69,7 @@ public class Cvlibrary {
   
   @AfterTest
   public void afterTest() {
-	  
+	  // BUILD CLOSE
 	  bo.close();
   }
 
