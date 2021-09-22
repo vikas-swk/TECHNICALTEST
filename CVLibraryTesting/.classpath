@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="/Users/vikaskumar/Documents/Seleniumjar&apos;s/selenium-java-3.141/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="/Users/vikaskumar/Documents/Seleniumjar&apos;s/selenium-java-3.141/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="/Users/vikaskumar/Documents/Seleniumjar&apos;s/Standalone/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
